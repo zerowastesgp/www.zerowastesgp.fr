@@ -12,6 +12,12 @@ facebook_username: ZeroWasteSudGrandParis
 instagram_username: zerowaste_sudgrandparis
 email: sudgrandparis@zerowastefrance.org
 
+avatar: yes
+avatar_img_path: /assets/images/main-logo.png
+
+front_img: yes
+front_img_path: /assets/images/landing-page-landscape.jpg
+
 # Build settings
 markdown: kramdown
 theme: minima
