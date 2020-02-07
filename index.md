@@ -15,16 +15,16 @@ permalink: /
   <h3>{{ site.description }}</h3>
 
   <ul>
-    {% if site.github_username %}
-    <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
-    {% endif %}
-
     {% if site.facebook_username %}
     <li><a class="fa fa-2x fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"><span class="description">Facebook</span></a></li>
     {% endif %}
 
     {% if site.instagram_username %}
     <li><a class="fa fa-2x fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"><span class="description">Instagram</span></a></li>
+    {% endif %}
+
+    {% if site.github_username %}
+    <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
     {% endif %}
 
     {% if site.email %}
