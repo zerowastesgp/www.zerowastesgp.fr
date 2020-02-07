@@ -12,7 +12,7 @@ permalink: /
   {% endif %}
 
   <h1>{{ site.name }}</h1>
-  <h3>{{ site.description }}</h3>
+  <h3 id="description">{{ site.description }}</h3>
 
   <ul>
     {% if site.facebook_username %}
