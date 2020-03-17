@@ -7,6 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: Zero Waste
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zerowastesgp.fr" # the base hostname & protocol for your site, e.g. http://example.com
+favicon_img_path: /assets/images/favicon.ico
 
 # Plugins
 plugins:
