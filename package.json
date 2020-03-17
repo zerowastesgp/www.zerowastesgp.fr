@@ -1,0 +1,29 @@
+{
+  "name": "www.zerowastesgp.fr",
+  "version": "0.0.0",
+  "description": "Main website of the Zero Waste Sud Grand Paris society",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerowastesgp/www.zerowastesgp.fr.git"
+  },
+  "keywords": [
+    "website",
+    "jekyll",
+    "society",
+    "zero-waste"
+  ],
+  "author": "Paul-Emmanuel Raoul",
+  "license": "Apache-2.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/zerowastesgp/www.zerowastesgp.fr/issues"
+  },
+  "homepage": "https://github.com/zerowastesgp/www.zerowastesgp.fr",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
