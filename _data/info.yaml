@@ -1,0 +1,17 @@
+address:
+  - line: Maison de la vie associative
+  - line: 26 rue Victor Hugo
+  - line: 92240 Malakoff
+
+# List of the available icons: https://fontawesome.com/v4.7.0/icons/
+social:
+  - title: facebook
+    url: https://www.facebook.com/ZeroWasteSudGrandParis
+  - title: instagram
+    url: https://www.instagram.com/zerowaste_sudgrandparis
+  - title: github
+    url: https://github.com/zerowastesgp
+  - title: envelope-o
+    url: mailto:sudgrandparis@zerowastefrance.org
+
+copyright: Zero Waste Sud Grand Paris
