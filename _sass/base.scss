@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr {
-  &.separator {
+  &.separator-light, &.separator-dark {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -43,12 +43,21 @@ hr {
     overflow: visible;
   }
 
-  &.separator {
+  &.separator-light {
     border-color: #fff;
 
     &:after {
       color: #fff;
       background-color: $primary-colour;
+    }
+  }
+
+  &.separator-dark {
+    border-color: $secondary-colour;
+
+    &:after {
+      color: $secondary-colour;
+      background-color: #fff;
     }
   }
 }
