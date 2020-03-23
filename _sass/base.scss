@@ -9,10 +9,18 @@ body {
 }
 
 p {
-  font-size: 20px;
+  font-size: $text-size;
 
   &.small {
-    font-size: 16px;
+    font-size: $text-small-size;
+  }
+}
+
+ul {
+  font-size: $text-size;
+
+  &.small {
+    font-size: $text-small-size;
   }
 }
 
