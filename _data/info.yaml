@@ -29,7 +29,7 @@ volunteers:
     picture: thomas-zimer.jpg
   - name: Rémi Degouys
     role: Secrétaire général
-    picture: no_profile_img.png
+    picture:
   - name: Paul-Emmanuel Raoul
     role: Informatique
     picture: paul-raoul.jpg
