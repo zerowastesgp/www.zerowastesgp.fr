@@ -16,3 +16,23 @@ social:
     url: mailto:sudgrandparis@zerowastefrance.org
 
 copyright: Zero Waste Sud Grand Paris
+
+volunteers:
+  - name: Alix Mennella
+    role: Présidente
+    picture: alix-mennella.jpg
+  - name: Marie Quément
+    role: Vice-présidente
+    picture: marie-quement.jpg
+  - name: Thomas Zimer
+    role: Trésorier
+    picture: thomas-zimer.jpg
+  - name: Rémi Degouys
+    role: Secrétaire général
+    picture:
+  - name: Paul-Emmanuel Raoul
+    role: Informatique
+    picture: paul-raoul.jpg
+  - name: Éloïse Aurat
+    role: Communication & Design
+    picture: eloise-aurat.jpg
