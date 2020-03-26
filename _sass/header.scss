@@ -1,0 +1,50 @@
+header {
+  text-align: center;
+  color: #fff;
+  background: $primary-colour;
+
+  .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 25em;
+  }
+
+  .intro-text {
+    .name {
+      display: block;
+      text-transform: uppercase;
+      font-family: $intro-text-fonts;
+      font-size: $intro-font-size;
+      font-weight: $intro-text-font-weight;
+    }
+
+    .sub-text {
+      font-size: $sub-text-font-size;
+      font-weight: $sub-text-font-weight;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  header {
+    .container {
+      padding-top: 200px;
+      padding-bottom: 100px;
+    }
+
+    .intro-text {
+      .name {
+        font-size: $intro-font-size + 2.75;
+      }
+
+      .sub-text {
+        font-size: $sub-text-font-size + 0.50;
+      }
+    }
+  }
+}
