@@ -15,6 +15,6 @@ Plusieurs solutions existent pour agir à notre échelle et réduire nos déchet
 
 Si vous souhaitez vous renseigner d’avantage sur la question du gaspillage alimentaire et des différents projets de loi sur le sujet :
 
-* https://www.ecologique-solidaire.gouv.fr/loi-anti-gaspillage
-* https://agriculture.gouv.fr/egalim-ce-que-contient-la-loi-agriculture-et-alimentation
-* https://www.ecologique-solidaire.gouv.fr/feuille-route-economie-circulaire-frec
+* [La loi anti-gaspillage pour une économie circulaire](https://www.ecologique-solidaire.gouv.fr/loi-anti-gaspillage)
+* [#EGalim : ce que contient la loi Agriculture et Alimentation](https://agriculture.gouv.fr/egalim-ce-que-contient-la-loi-agriculture-et-alimentation)
+* [La feuille de route économie circulaire (FREC)](https://www.ecologique-solidaire.gouv.fr/feuille-route-economie-circulaire-frec)
