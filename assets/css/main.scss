@@ -5,6 +5,9 @@
 
 // Global variables
 
+$text-size:                     20px;
+$text-small-size:               16px;
+
 $primary-colour:                #18bc9c;
 $secondary-colour:              #2c3e50;
 $secondary-colour-dark:         #233140;
@@ -25,5 +28,9 @@ $sub-text-font-weight:          300;
 // Imports
 
 @import
-  "base"
+  "base",
+  "footer",
+  "header",
+  "home",
+  "navbar"
 ;
