@@ -1,0 +1,31 @@
+---
+layout: default
+title: "Actualité"
+permalink: "/actualite"
+---
+<section id="articles" class="row">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Actualité</h2>
+      </div>
+    </div>
+    <hr class="separator-dark">
+    {% for post in site.posts %}
+    <article class="col-12 col-md-4 col-lg-4">
+      <div class="post-meta">
+        <div class="post-thumbnail">
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+        </div>
+        <h4>{{ post.title }}</h4>
+      </div>
+      <div class="post-content">
+        <p>{{ post.excerpt }}</p>
+      </div>
+    {% if post.content contains site.excerpt_separator %}
+      <a href="{{ post.url | prepend: site.baseurl }}">Lire la suite</a>
+    {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
