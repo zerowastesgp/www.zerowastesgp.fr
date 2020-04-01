@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La mauvause foi ne se recyle pas"
+title: "La mauvaise foi ne se recyle pas"
 thumbnail: /assets/images/loi-anti-gaspillage-abus.png
 ---
 Dans le cadre de la loi sur la transition énergétique pour la croissance verte, la vaisselle plastique jetable (couverts, assiettes, gobelets, etc.) est interdite à la vente depuis le 1er Janvier 2020.
