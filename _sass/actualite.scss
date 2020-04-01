@@ -1,4 +1,6 @@
 #articles {
+  margin-top: 80px;
+
   article {
     margin-bottom: 50px;
 
@@ -22,6 +24,12 @@
       text-align: justify;
       text-justify: inter-word;
     }
+  }
+}
+
+#articles {
+  @media (max-width: 767px) {
+    margin-top: 50px;
   }
 }
 
