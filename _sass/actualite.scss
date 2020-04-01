@@ -34,6 +34,8 @@
 }
 
 #post {
+  margin-top: 80px;
+
   .post-thumbnail {
     img {
       max-width: 100%;
@@ -50,5 +52,11 @@
     margin-top: 1.72em;
     text-align: justify;
     text-justify: inter-word;
+  }
+}
+
+#post {
+  @media (max-width: 767px) {
+    margin-top: 50px;
   }
 }
