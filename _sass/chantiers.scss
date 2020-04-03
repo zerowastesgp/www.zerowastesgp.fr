@@ -1,0 +1,26 @@
+#chantiers {
+  margin-top: 80px;
+
+  article {
+    .chantier-meta {
+      text-align: center;
+    }
+
+    .chantier-thumbnail {
+      img {
+        width: 100%;
+      }
+    }
+
+    .chantier-content {
+      text-align: justify;
+      text-justify: inter-word;
+    }
+  }
+}
+
+#chantiers {
+  @media (max-width: 767px) {
+    margin-top: 50px;
+  }
+}
