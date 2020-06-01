@@ -21,7 +21,7 @@ Pour tout ce qui est alimentaire, vous pouvez recourir à [La ruche qui dit oui]
 
 ### Recourir au don, au troc et à l'emprunt plutôt qu'acheter
 
-Que ce soit pour les amateurs de récup, les petits budgets souhaitant s'équiper à moindre frais ou les particuliers désirant se séparer d'objets peu utilisés ou en doublon sans pour autant les jeter ; les applications [toutdonner][toutdonner] et [Geev][geev] permettent de mettre en relation les donneurs et les potentiels futurs acquéreurs. Dans une logique similaire, plutôt que d'acheter du matériel neuf pour un usage très très ponctuel (perceuse, appareil à raclette etc) il est possible de l'emprunter pour une durée d'utilisation définie. Des plateformes en ligne telle que « mutum » ou [MyTroc][mytroc] assurent cette économie collaborative de prêts entre particuliers. Fini les achats de neuf inutiles !
+Que ce soit pour les amateurs de récup, les petits budgets souhaitant s'équiper à moindre frais ou les particuliers désirant se séparer d'objets peu utilisés ou en doublon sans pour autant les jeter ; les applications [toutdonner][toutdonner] et [Geev][geev] permettent de mettre en relation les donneurs et les potentiels futurs acquéreurs. Dans une logique similaire, plutôt que d'acheter du matériel neuf pour un usage très très ponctuel (perceuse, appareil à raclette etc) il est possible de l'emprunter pour une durée d'utilisation définie. Des plateformes en ligne telle que [MyTroc][mytroc] assurent cette économie collaborative de prêts entre particuliers. Fini les achats de neuf inutiles !
 
 ### Réparer plutôt que jeter
 
