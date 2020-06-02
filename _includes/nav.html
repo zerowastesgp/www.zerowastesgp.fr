@@ -20,7 +20,11 @@
         </li>
         {% for item in site.data.nav %}
         <li class="page-scroll">
+          {% if item.newtab %}
+          <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.name}}</a>
+          {% else %}
           <a href="{{ item.link }}">{{ item.name}}</a>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>
