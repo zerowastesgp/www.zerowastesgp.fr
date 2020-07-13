@@ -13,7 +13,7 @@ Les vacances d’été sont enfin là : promenades, baignades, dégustations de 
 * Réaliser des pique-niques zéro déchet en apportant ses propres couverts en inox, sa gourde, sa nappe en tissu et ses tupperwares.
 * Consommer des produits issus de l’agriculture locale et de l’artisanat régional.
 * Pour les apéros et verres en terrasse, penser à commander des boissons sans paille ou à apporter sa propre paille réutilisable (inox, bambou).
-* Ne pas hésiter à emprunter certaines affaires à usage ponctuel à des proches plutôt que de les acheter neuves (palmes et tuba de plongée, sac à dos de randonnée, guides touristiques etc).
+* Ne pas hésiter à emprunter certaines affaires à usage ponctuel à des proches plutôt que de les acheter neuves (palmes et tuba de plongée, sac à dos de randonnée, guides touristiques, etc.).
 * Privilégier les solutions répulsives anti-moustiques naturelles aux produits chimiques et nocifs pour l’environnement.
 * Recourir à des transports peu polluants (vélo, bus, tramway) autant que possible pour des trajets courts.
 * Conserver ses habitudes zéro déchet pour les produits de consommation (achats en vrac) et d’hygiène (cotons et couches lavables par exemple).
