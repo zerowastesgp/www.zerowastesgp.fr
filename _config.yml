@@ -12,11 +12,15 @@ favicon_img_path: /assets/images/favicon.ico
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
 excerpt_separator: "<!--more-->"
+
+include:
+  - _pages
 
 sass:
   style: compressed
@@ -24,3 +28,7 @@ sass:
 # Outputting
 permalink: :year/:month/:day/:title/
 timezone: Europe/Paris
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num"
