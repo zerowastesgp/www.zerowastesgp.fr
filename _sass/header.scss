@@ -4,8 +4,8 @@ header {
   background: $primary-colour;
 
   .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 1.8rem;
+    padding-bottom: 1.5rem;
   }
 
   img {
@@ -26,25 +26,6 @@ header {
     .sub-text {
       font-size: $sub-text-font-size;
       font-weight: $sub-text-font-weight;
-    }
-  }
-}
-
-@media (min-width: 768px) {
-  header {
-    .container {
-      padding-top: 200px;
-      padding-bottom: 100px;
-    }
-
-    .intro-text {
-      .name {
-        font-size: $intro-font-size + 2.75;
-      }
-
-      .sub-text {
-        font-size: $sub-text-font-size + 0.50;
-      }
     }
   }
 }

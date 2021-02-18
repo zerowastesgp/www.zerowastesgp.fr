@@ -21,6 +21,7 @@ excerpt_separator: "<!--more-->"
 
 include:
   - _pages
+  - .well-known
 
 sass:
   style: compressed
